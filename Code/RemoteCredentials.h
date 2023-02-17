@@ -1,0 +1,7 @@
+#ifndef REMOTECREDENTIALS_h
+#define REMOTECREDENTIALS_h
+
+// local AP1
+const char* REMOTE_SSID = "YOUR SSID NAME HERE";
+const char* REMOTE_PASSWORD = "YOUR PASSWORD HERE";
+#endif
